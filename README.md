@@ -1,5 +1,12 @@
-### Hi there 👋
-
+## Hello, I'm Robert Russell. I program in my free time.
+- I’m currently working on a [Field Map Editor](https://github.com/Sebanisu/Field-Map-Editor) for Final Fantasy VIII
+- I’m currently learning modern C++, ImGui, SFML.
+  - I was learning C#, Monograme, Monogame and Python.
+  - I was taught C++98 in highschool and Visual Basic 6.0 in college.
+  - I'm interested in the C++ Standards, OpenGL and Vulkan.
+ 
+ 
+[![Sebanisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebanisu)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Sebanisu/Sebanisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
