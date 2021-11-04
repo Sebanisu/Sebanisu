@@ -4,6 +4,7 @@
   - I was learning C#, Monogame and Python.
   - I was taught C++98 in highschool and Visual Basic 6.0 in college.
   - I'm interested in the C++ Standards, OpenGL and Vulkan.
+  - When I was a teenager I did mess with HTML, Javascript, and CSS.
  
  
 [![Sebanisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebanisu)](https://github.com/anuraghazra/github-readme-stats)
